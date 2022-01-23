@@ -51,7 +51,7 @@ namespace lab12
             {
                 if (coorX <= radius && coorY <= radius)
                 {
-                    Console.WriteLine("Поздравляю! Точка ({0},{1}) принадлежит кругу с радиусом {2}", coorX, coorY, radius);
+                    Console.WriteLine("Поздравляю! Точка ({0},{1}) скорее всего принадлежит кругу с радиусом {2}", coorX, coorY, radius);
                 }
                 else
                 {
